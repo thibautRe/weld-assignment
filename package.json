@@ -1,0 +1,23 @@
+{
+  "name": "weld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.7.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "lodash.debounce": "^4.0.8",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "styled-components": "^3.2.6"
+  }
+}
