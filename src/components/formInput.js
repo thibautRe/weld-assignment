@@ -4,7 +4,7 @@ import debounce from 'lodash.debounce'
 
 import Input from './input'
 
-const API = 'http://simple-rest-weld.herokuapp.com/'
+const API = 'https://simple-rest-weld.herokuapp.com/'
 
 const Error = styled.div`
   color: #ed6449;
